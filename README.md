@@ -5,7 +5,7 @@ manager. Drop a folder and it identifies, enriches, and organizes your library.
 
 | | |
 | --- | --- |
-| Template | [`metatana.xml`](metatana.xml) |
+| Template | [`templates/metatana.xml`](templates/metatana.xml) |
 | Image | `ghcr.io/metatana/metatana-app:stable` |
 | Architectures | `linux/amd64`, `linux/arm64` |
 | Web UI | port `3000` |
