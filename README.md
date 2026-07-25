@@ -43,4 +43,13 @@ Or email **support@watari.dev**.
 MetaTana is metadata-only and downloader-agnostic. It works alongside any media library and any player,
 including Plex, Jellyfin, Kodi, and Emby.
 
-This repository contains only the Unraid template. MetaTana itself is closed source.
+## Licensing
+
+This repository contains **only Unraid packaging metadata** — the template XML, the CA profile, and this
+README. It contains no MetaTana source code.
+
+Those packaging files are MIT licensed so Community Applications can freely redistribute and adapt them.
+
+**MetaTana itself is proprietary and closed source.** It is distributed only as a container image and as
+signed desktop builds. The MetaTana name, wordmark, and logo are brand assets; all rights in them are
+reserved and they are not covered by the MIT license in this repository.
