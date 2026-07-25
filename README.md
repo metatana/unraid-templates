@@ -53,3 +53,5 @@ Those packaging files are MIT licensed so Community Applications can freely redi
 **MetaTana itself is proprietary and closed source.** It is distributed only as a container image and as
 signed desktop builds. The MetaTana name, wordmark, and logo are brand assets; all rights in them are
 reserved and they are not covered by the MIT license in this repository.
+
+MetaTana is a product of Watari Labs Pty Ltd (ABN 84 696 983 829).
