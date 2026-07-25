@@ -2,6 +2,20 @@ MIT License
 
 Copyright (c) 2026 MetaTana
 
+This license applies ONLY to the Unraid Community Applications packaging files
+in this repository: the template XML under templates/, ca_profile.xml, and
+README.md.
+
+It does NOT apply to:
+
+  - The MetaTana application itself, which is proprietary, closed source, and
+    distributed only as a container image and signed desktop builds. No part of
+    the MetaTana source code is contained in this repository.
+  - The MetaTana name, wordmark, and logo, including icon.svg in this
+    repository. Those are brand assets, are not licensed under these terms, and
+    all rights in them are reserved. They are included here solely so Unraid
+    Community Applications can display the correct icon for this listing.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
