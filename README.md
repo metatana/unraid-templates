@@ -1,7 +1,7 @@
 # MetaTana — Unraid Templates
 
-Unraid Community Applications template for **[MetaTana](https://metatana.com)**, an AI-powered media
-manager. Drop a folder and it identifies, enriches, and organizes your library.
+Unraid Community Applications template for **[MetaTana](https://metatana.com)**. It turns messy movie,
+TV, and anime folders into a clean, complete media library.
 
 | | |
 | --- | --- |

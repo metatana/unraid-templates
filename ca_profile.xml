@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CommunityApplications>
   <Profile>
-This repository maintains the Unraid Community Applications template for **MetaTana**, an AI-powered media manager for the library you already own.
+This repository maintains the Unraid Community Applications template for **MetaTana**. It turns messy movie, TV, and anime folders into a clean, complete media library.
 
-Point MetaTana at a folder and it identifies every movie, show, and anime title using AI vision and trusted metadata providers, then enriches everything with artwork, subtitles, trailers, cast, and crew. It renames and organizes files into a clean, consistent structure and writes sidecar metadata your player can read.
+Add a folder and MetaTana identifies each title with trusted metadata providers and optional AI assistance. It fixes names and metadata, adds artwork, subtitles, trailers, cast, and crew, and writes player-ready NFO files. You review the result before anything moves.
 
-MetaTana is metadata-only and downloader-agnostic. It works alongside any media library and any player, including Plex, Jellyfin, Kodi, and Emby.
+MetaTana is local-first, metadata-only, and downloader-agnostic. It works with Plex, Jellyfin, Emby, and Kodi.
 
 **Support:** https://github.com/metatana/support/discussions — or email support@watari.dev
 
