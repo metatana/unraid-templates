@@ -36,8 +36,6 @@ override and **Extra Parameters** blank.
 
 Questions and problems: **<https://github.com/metatana/support/discussions>**
 
-Or email **support@watari.dev**.
-
 ## Notes
 
 MetaTana is metadata-only and downloader-agnostic. It works alongside any media library and any player,
